@@ -7,7 +7,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-2">
-            <img src="https://files.catbox.moe/bu8ygj.png" alt="Nebula" className="w-12 h-12" />
+            <img src="https://files.catbox.moe/bu8ygj.png" alt="cubix" className="w-12 h-12" />
             <span className="text-xl font-bold bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">Cubix</span>
           </div>
           <div className="flex items-center space-x-5">
